@@ -1,0 +1,50 @@
+﻿#left{
+    background: green;
+    width: 320px;
+    float: left;
+    font-size: 22px;
+}
+#right{
+    background-color:aquamarine;
+    overflow: hidden;
+    font-size: 22px;
+    width: 320px;
+}
+
+#left2 {
+    background: yellow;
+    width: 125px;
+    float: left
+}
+#right2 {
+    background-color:goldenrod ;
+    overflow: hidden;
+    width: 515px;
+}
+
+#winLoss {
+    text-align: center;
+    overflow: hidden;
+    background: orange;
+    width: 640px;
+    font-size: 32px;
+}
+#winLoss0 {
+    text-align: center;
+    overflow: hidden;    
+    width: 524px;
+    font-size: 60px;
+}
+
+#smallText {
+    text-align: center;    
+    font-size: 15px;
+}
+
+body {
+    background-color: aqua;
+}
+
+#h1{
+    font-size: 50px;
+}
